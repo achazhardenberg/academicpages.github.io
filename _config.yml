@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Evolutionary Biology, Ecology and Conservation"
+title                    : "Evolution, Ecology and Conservation"
 title_separator          : "-"
 name                     : &name "Achaz von Hardenberg"
 description              : &description "personal description"
