@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Achaz von Hardenberg"
+title                    : "Evolutionary Biology, Ecology and Conservation"
 title_separator          : "-"
 name                     : &name "Achaz von Hardenberg"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Achaz von Hardenberg"
   avatar           : "profile.png"
-  bio              : "Lecturer in Conservation Biology @ University of Chester"
-  location         : "Chester, UK"
+  bio              : "Lecturer in Conservation Biology"
+  location         : "University of Chester, UK"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=aObiaQ4AAAAJ&hl=en"
   email            : "a.vonhardenberg@chester.ac.uk"
