@@ -1,10 +1,12 @@
 # main links links
 main:
-- title: "Conservation Biology Research Group"
-  url: https://chesterconsbio.github.io
   
 - title: "Publications"
   url: /publications/
+  
+docs:
+- title: "Conservation Biology Research Group"
+  url: https://chesterconsbio.github.io
     
 
 
