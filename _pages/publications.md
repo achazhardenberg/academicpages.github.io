@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{https://scholar.google.it/citations?user=aObiaQ4AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 
 Tiberti R.,Bogliani G., Brighenti S., Iacobuzio R., Liautaud K., Rolla M., **von Hardenberg A.**, Bassano B. (2018)  Recovery of high mountain lake ecosystems after the eradication of introduced fish using non-chemical methods. Submitted to *Biological Invasions*
  
