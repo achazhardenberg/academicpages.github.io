@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Achaz von Hardenberg"
+  name             : "Lecturer in Conservation Biology"
   url              : https://achazhardenberg.github.io
   avatar           : "profile.png"
-  bio              : "Lecturer in Conservation Biology"
+  bio              : "Evolutionary ecology, conservation, statistical modelling and causal inference"
   location         : "University of Chester, UK"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=aObiaQ4AAAAJ&hl=en"
