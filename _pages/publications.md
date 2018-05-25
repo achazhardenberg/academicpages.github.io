@@ -4,9 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-Tiberti R.,Bogliani G., Brighenti S., Iacobuzio R., Liautaud K., Rolla M., **von Hardenberg A.**, Bassano B. (2018)  Recovery of high mountain lake ecosystems after the eradication of introduced fish using non-chemical methods. Submitted to *Biological Invasions*
- 
+  
 Scridel D., Bogliani B., Pedrini P., Iemma A., **von Hardenberg A.** and Brambilla M. (2017) Thermal niche predicts recent range variation in birds. *Climate Research*. 73(3), 207-216. 
   
 Zanet S., Miglio G., Ferrari C., Bassano B., Ferroglio E. and **von Hardenberg, A.** (2017) Higher Risk of Gastrointestinal Parasite Infection at Lower Altitudes Suggests Possible Constraints in the Distributional Niche of Alpine Marmots.  *PLOS ONE*. 12(8),e0182477.
@@ -89,10 +87,3 @@ Bassano, B. **von Hardenberg A.** and Provenzale A. (2007) Cinquant’anni di ce
   
 Prigioni C. and **von Hardenberg A.** (1996) Biologia della lontra (*Lutra lutra*) e prospettive di un suo ritorno in Valle d’Aosta. In: *Progetto Lontra Gran Paradiso.* (V. Peracino, ed.). Collana scientifica del Parco Nazionale Gran Paradiso nr.4. 36 pp.
 
-**In preparation:**  
-
-**von Hardenberg A.**, McCrea R. and Morgan B.J.T. Integrated model of temporal variability in demographic parameters in a declining mountain ungulate population. In prep. for *Nature Ecology and Evolution*  
-  
-**von Hardenberg A.** and Gonzalez-Voyer A. A Bayesian Structural Equation Modelling approach to causal inference in comparative phylogenetic analyses. In prep. for *Methods in Ecology and Evolution*. 
-  
-Brambilla B., Bassano B., Bogliani G. and **von Hardenberg A.** Climate change drives strong shrinkage trend in the horns of Alpine ibex (*Capra ibex*) in Gran Paradiso National Park. In prep. for *Journal of Animal Ecology*.
