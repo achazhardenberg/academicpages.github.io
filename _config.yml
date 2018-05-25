@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Lecturer in Conservation Biology"
-  url              : https://achazhardenberg.github.io
+  url              : "https://achazhardenberg.github.io"
   avatar           : "profile.png"
   bio              : "Evolutionary ecology, conservation, statistical modelling and causal inference"
   location         : "University of Chester, UK"
