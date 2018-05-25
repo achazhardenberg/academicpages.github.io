@@ -3,6 +3,8 @@ permalink: /
 title: "Achaz von Hardenberg"
 excerpt: "About me"
 author_profile: true
+sidebar:
+  nav: "docs"
 redirect_from: 
   - /about/
   - /about.html
