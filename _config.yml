@@ -79,6 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Achaz von Hardenberg"
+  url              : https://achazhardenberg.github.io
   avatar           : "profile.png"
   bio              : "Lecturer in Conservation Biology"
   location         : "University of Chester, UK"
