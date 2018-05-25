@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Conservation Biology Research Group"
+title                    : "Achaz von Hardenberg"
 title_separator          : "-"
 name                     : &name "Achaz von Hardenberg"
 description              : &description "personal description"
