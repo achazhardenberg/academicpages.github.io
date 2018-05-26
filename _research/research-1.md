@@ -1,6 +1,6 @@
 ---
 title: "Causal inference in Ecology, Evolutionary Biology and Conservation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/4319ED94-8D67-4C2E-9F43-0F9A5C749DEE.png'>"
+excerpt: "<img src='/images/4319ED94-8D67-4C2E-9F43-0F9A5C749DEE.png'>"
 collection: research
 ---
 
