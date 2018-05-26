@@ -1,6 +1,6 @@
 ---
 title: "Behavioural ecology of Alpine marmots"
-excerpt: "<img src='/images/4319ED94-8D67-4C2E-9F43-0F9A5C749DEE.png'>"
+excerpt: "<img src='/images/3D70C8D0-ED14-46E5-B25A-D1B2F2B77659.jpeg'>"
 collection: research
 ---
 
