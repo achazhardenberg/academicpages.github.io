@@ -1,6 +1,6 @@
 ---
 title: "Population dynamics, life history and conservation of mountain ungulates"
-excerpt: "<img src='/images/4319ED94-8D67-4C2E-9F43-0F9A5C749DEE.png'>"
+excerpt: "<img src='/images/CFC25055-E5A2-4946-8CFB-7DA84748B548.jpeg'>"
 collection: research
 ---
 
