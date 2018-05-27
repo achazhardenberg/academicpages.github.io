@@ -7,7 +7,7 @@ main:
   url: /publications/
   
  - title: "CV"
-   url: /_pages/AvH-rmarkdown-cv_no_pub.html
+   url: https://github.io/achazhardenberg/_pages/AvH-rmarkdown-cv_no_pub.html
   
 docs:
 - title: "Conservation Biology Research Group"
