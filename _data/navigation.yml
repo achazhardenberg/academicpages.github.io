@@ -8,6 +8,9 @@ main:
   
  - title: "CV"
    url: /CV/
+   
+ - title: "MRes"
+   url: /Mres/
   
 docs:
 - title: "Conservation Biology Research Group"
